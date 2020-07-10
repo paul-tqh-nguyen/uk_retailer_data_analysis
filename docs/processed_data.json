@@ -1,0 +1,53 @@
+{
+    "day_of_week_data": {
+        "Monday": {
+            "UniqueInvoiceCount": 3586,
+            "UniquePurchasedItemCount": 3450,
+            "TotalQuantity": 1067270,
+            "TotalPurchaseAmount": 1402937.2049998094,
+            "UniqueCustomerCount": 1749
+        },
+        "Tuesday": {
+            "UniqueInvoiceCount": 4526,
+            "UniquePurchasedItemCount": 3503,
+            "TotalQuantity": 885965,
+            "TotalPurchaseAmount": 1551433.8109998384,
+            "UniqueCustomerCount": 2050
+        },
+        "Wednesday": {
+            "UniqueInvoiceCount": 4194,
+            "UniquePurchasedItemCount": 3547,
+            "TotalQuantity": 964426,
+            "TotalPurchaseAmount": 1479015.1929998149,
+            "UniqueCustomerCount": 1916
+        },
+        "Thursday": {
+            "UniqueInvoiceCount": 5025,
+            "UniquePurchasedItemCount": 3568,
+            "TotalQuantity": 1091715,
+            "TotalPurchaseAmount": 1711504.3019997634,
+            "UniqueCustomerCount": 2118
+        },
+        "Friday": {
+            "UniqueInvoiceCount": 3310,
+            "UniquePurchasedItemCount": 3372,
+            "TotalQuantity": 738186,
+            "TotalPurchaseAmount": 1181370.4919999144,
+            "UniqueCustomerCount": 1630
+        },
+        "Saturday": {
+            "UniqueInvoiceCount": 30,
+            "UniquePurchasedItemCount": 285,
+            "TotalQuantity": 5119,
+            "TotalPurchaseAmount": 9803.050000000001,
+            "UniqueCustomerCount": 26
+        },
+        "Sunday": {
+            "UniqueInvoiceCount": 2916,
+            "UniquePurchasedItemCount": 3517,
+            "TotalQuantity": 574558,
+            "TotalPurchaseAmount": 1012144.5209998855,
+            "UniqueCustomerCount": 1419
+        }
+    }
+}
